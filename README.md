@@ -46,7 +46,8 @@ The solution to the second question i.e Implementing Stacks using Two Queues is 
 ---------------------------
 
 
-Thank You
+Thank & Regards
+Ramachandrula Aashrith Sagar
 
 
 
