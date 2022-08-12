@@ -41,6 +41,13 @@ Please check the sample output screenshots to see how the application looks like
 
 -------------------------
 
+
+
+The solution to the second question i.e Implementing Stacks using Two Queues is given in the pdf file named "LightSpeedAI_Assignment - 2.pdf"
+
+---------------------------
+
+
 Thank You
 
 
